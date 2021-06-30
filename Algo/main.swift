@@ -1,11 +1,6 @@
-//
-//  main.swift
-//  Algo
-//
-//  Created by Mykola Maslov on 6/30/21.
-//
 
-import Foundation
+  var stack: Stack = [1.0, 2.0, 3.0, 4.0]
+  print(stack)
+  stack.pop()
 
-print("Hello, World!")
-
+print(stack)
